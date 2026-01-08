@@ -1,0 +1,7 @@
+{
+  "name": "Arsitek Kurikulum Merdeka AI",
+  "description": "An advanced AI-powered educational system designed to transform Capaian Pembelajaran (CP) into implementation-ready TP, ATP, Prota, and Promes based on Indonesia's 2024 Kurikulum Merdeka and Deep Learning principles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
